@@ -1,2 +1,1 @@
-# OOP_Python_coursera
-Курс "ООП Python" от coursera.org 
+Курс "ООП Python" от coursera.org проходила в 2020 году
